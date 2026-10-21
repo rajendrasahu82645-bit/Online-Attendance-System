@@ -50,7 +50,7 @@ It is suitable for **schools, colleges, coaching institutes, and other education
 ## 🔐 Login Page
 
 <p align="center">
-  https://dribbble.com/shots/23220334-Student-Attendance-Management-System-Web-UI-Light-Dark
+ <img src="images/login.png" alt="Online Attendance System - Login Page" width="850">
 
 </p>
 
