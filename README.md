@@ -47,21 +47,12 @@ It is suitable for **schools, colleges, coaching institutes, and other education
 
 # 🖥️ Project Screenshots
 
-## 🔐 Login Page
-
-<p align="center">
- <img src="images/login.png" alt="Online Attendance System - Login Page" width="850">
-
-</p>
-
-> Secure login interface for accessing the attendance management system.
-
 ---
 
 ## 🏠 Dashboard
 
 <p align="center">
-  <img src="images/dashboard.png" alt="Dashboard" width="85%">
+https://github.com/rajendrasahu82645-bit/Online-Attendance-System/blob/522a895ce050e15b779aea016249d5d5dc440e86/Dashboard.png
 </p>
 
 > Central dashboard for managing students and attendance activities.
