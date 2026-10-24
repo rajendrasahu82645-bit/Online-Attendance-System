@@ -47,12 +47,14 @@ It is suitable for **schools, colleges, coaching institutes, and other education
 
 # 🖥️ Project Screenshots
 
+Explore the key features of the **Online Attendance System** through the screenshots below.
+
 ---
 
 ## 🏠 Dashboard
 
 <p align="center">
-https://github.com/rajendrasahu82645-bit/Online-Attendance-System/blob/522a895ce050e15b779aea016249d5d5dc440e86/Dashboard.png
+  <img src="https://github.com/rajendrasahu82645-bit/Online-Attendance-System/blob/522a895ce050e15b779aea016249d5d5dc440e86/Dashboard.png?raw=true" alt="Online Attendance System Dashboard" width="850">
 </p>
 
 > Central dashboard for managing students and attendance activities.
@@ -62,17 +64,17 @@ https://github.com/rajendrasahu82645-bit/Online-Attendance-System/blob/522a895ce
 ## 👨‍🎓 Student Management
 
 <p align="center">
- https://github.com/rajendrasahu82645-bit/Online-Attendance-System/blob/82879cf972fef7290c0decb6d3d2f537ef669bd4/Student%20management.png
+  <img src="https://github.com/rajendrasahu82645-bit/Online-Attendance-System/blob/82879cf972fef7290c0decb6d3d2f537ef669bd4/Student%20management.png?raw=true" alt="Student Management" width="850">
 </p>
 
-> Manage student information from a centralized interface.
+> Manage student information through a centralized interface.
 
 ---
 
 ## 📝 Attendance Management
 
 <p align="center">
-  <https://github.com/rajendrasahu82645-bit/Online-Attendance-System/blob/140331a7900a7c0787f1313308358fd7544d70ac/Attendance%20mangement.png>
+  <img src="https://github.com/rajendrasahu82645-bit/Online-Attendance-System/blob/140331a7900a7c0787f1313308358fd7544d70ac/Attendance%20mangement.png?raw=true" alt="Attendance Management" width="850">
 </p>
 
 > Easily mark and manage daily student attendance.
@@ -82,12 +84,13 @@ https://github.com/rajendrasahu82645-bit/Online-Attendance-System/blob/522a895ce
 ## 📊 Attendance Report
 
 <p align="center">
-  https://github.com/rajendrasahu82645-bit/Online-Attendance-System/blob/811265e50d292459cbca79cee05f2bcae36baf47/Attendance%20report.png
+  <img src="https://github.com/rajendrasahu82645-bit/Online-Attendance-System/blob/811265e50d292459cbca79cee05f2bcae36baf47/Attendance%20report.png?raw=true" alt="Attendance Report" width="850">
 </p>
 
 > View and monitor attendance records in an organized format.
 
 ---
+
 
 # 🛠️ Technology Stack
 
