@@ -62,7 +62,7 @@ https://github.com/rajendrasahu82645-bit/Online-Attendance-System/blob/522a895ce
 ## 👨‍🎓 Student Management
 
 <p align="center">
-  <img src="images/students.png" alt="Student Management" width="85%">
+ https://github.com/rajendrasahu82645-bit/Online-Attendance-System/blob/82879cf972fef7290c0decb6d3d2f537ef669bd4/Student%20management.png
 </p>
 
 > Manage student information from a centralized interface.
