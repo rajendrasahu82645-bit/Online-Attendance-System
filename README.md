@@ -91,7 +91,7 @@ It is suitable for **schools, colleges, coaching institutes, and other education
 ## 📊 Attendance Report
 
 <p align="center">
-  <img src="images/report.png" alt="Attendance Report" width="85%">
+  https://github.com/rajendrasahu82645-bit/Online-Attendance-System/blob/811265e50d292459cbca79cee05f2bcae36baf47/Attendance%20report.png
 </p>
 
 > View and monitor attendance records in an organized format.
