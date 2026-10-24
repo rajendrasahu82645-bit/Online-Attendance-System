@@ -81,7 +81,7 @@ It is suitable for **schools, colleges, coaching institutes, and other education
 ## 📝 Attendance Management
 
 <p align="center">
-  <img src="images/attendance.png" alt="Attendance Management" width="85%">
+  <https://github.com/rajendrasahu82645-bit/Online-Attendance-System/blob/140331a7900a7c0787f1313308358fd7544d70ac/Attendance%20mangement.png>
 </p>
 
 > Easily mark and manage daily student attendance.
